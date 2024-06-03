@@ -1,49 +1,21 @@
-# こんにちは! I'm [Your Name] 👾
+# RUOXING (David) YANG
 
-![Banner](https://i.imgur.com/your_image.png)
+## About
+- Working on Cadence for the Georgetown SecLab
+- Working on the Line Addition Problem for the 2024 Georgetown Raines Fellowship 
+- Learning GoLang, AWS, etc
+- Reach Me: davidruoxingyang@gmail.com
 
-## 🍣 About Me
-- 🔭 I’m currently working on mastering the art of code like a true ninja!
-- 🌱 I’m on a quest to learn [technology or topic] and level up my skills.
-- 👯 I’m looking to form a team and collaborate on epic projects.
-- 🤔 Seeking wisdom from senseis in [topic or technology].
-- 💬 Ask me about anime, manga, or anything otaku-related!
-- 📫 How to summon me: [email or social media]
-- ⚡ Fun fact: I can name all the Hokages in order! 🍥
+## Skills
+- **Languages:** C++, C, Java, GoLang, Python, JavaScript, HTML
+- **Frameworks:** React, SDL2
+- **Tools:** MySQL
 
-## ✨ Skills & Abilities
-- **Languages:** 🗡️ [languages you know]
-- **Frameworks:** 🌌 [frameworks you use]
-- **Tools:** 🛠️ [tools you use]
+## Projects
+- [Line Addition Problem](https://github.com/Davidrxyang/raines-2024-line-addition-problem) - Line Addition Problem in Public Transportation
+- [RY-Game-Engine](https://github.com/Davidrxyang/RY-Game-Engine) - 2D Graphics Engine optimized for video games, built using C++ and SDL2
+- [BOIDS](https://github.com/Davidrxyang/boids) - simple Java implementation of boids flocking algorithm
 
-## 💼 My Epic Projects
-- [Project 1](link_to_project) - A legendary project that [brief description]
-- [Project 2](link_to_project) - An adventure in code, [brief description]
-- [Project 3](link_to_project) - Conquered the challenges of [brief description]
 
-## 🌟 Favorite Anime & Manga
-- **Anime:** 
-  - One Piece 🏴‍☠️
-  - Naruto 🍥
-  - My Hero Academia 💪
-  - Attack on Titan 🔥
-
-- **Manga:**
-  - Death Note 📓
-  - Demon Slayer 🌸
-  - Fullmetal Alchemist ⚙️
-  - Tokyo Ghoul 👻
-
-## 🎮 Hobbies
-- Gaming 🎮
-- Watching Anime 📺
-- Cosplay 👗
-- Manga Reading 📚
-
-## 📱 Connect With Me
-- [LinkedIn](your_linkedin_profile) 🤝
-- [Twitter](your_twitter_profile) 🐦
-- [Personal Website](your_website) 🌐
-
-![Footer Image](https://i.imgur.com/footer_image.png)
-
+## Contact
+- [LinkedIn](www.linkedin.com/in/ruoxing-yang-527304228)
