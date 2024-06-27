@@ -7,7 +7,7 @@
 - Reach Me: davidruoxingyang@gmail.com
 
 ## Skills
-- **Languages:** C++, C, Java, GoLang, Python, JavaScript, HTML
+- **Languages:** C++, C, Java, GoLang, Python, JavaScript, TypeScript, HTML
 - **Frameworks:** React, SDL2
 - **Tools:** MySQL
 
