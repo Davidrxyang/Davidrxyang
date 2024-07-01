@@ -10,7 +10,7 @@
 
 ## Skills
 - **Languages:** C++, C, Java, GoLang, Python, JavaScript, TypeScript, HTML
-- **Frameworks:** React, SDL2
+- **Technology/Frameworks:** React, SDL2, Linux, Ubuntu, Bash
 - **Tools:** MySQL
 
 ## Projects
