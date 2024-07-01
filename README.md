@@ -1,6 +1,6 @@
 # RUOXING (David) YANG
 
-ruoxingyang.com
+- [ruoxingyang.com](https://ruoxingyang.com)
 
 ## About
 - Working on Cadence for the Georgetown SecLab
@@ -22,6 +22,6 @@ ruoxingyang.com
 
 
 ## Contact
-- [LinkedIn](www.linkedin.com/in/ruoxing-yang-527304228)
+- [LinkedIn](https://linkedin.com/in/ruoxing-yang-527304228)
   
 <img src="https://github.com/Davidrxyang/Davidrxyang/blob/main/David.jpg" alt="Profile Picture" width="200"/>
