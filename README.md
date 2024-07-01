@@ -1,5 +1,7 @@
 # RUOXING (David) YANG
 
+ruoxingyang.com
+
 ## About
 - Working on Cadence for the Georgetown SecLab
 - Working on the Line Addition Problem for the 2024 Georgetown Raines Fellowship 
@@ -15,6 +17,8 @@
 - [Line Addition Problem](https://github.com/Davidrxyang/raines-2024-line-addition-problem) - Line Addition Problem in Public Transportation
 - [RY-Game-Engine](https://github.com/Davidrxyang/RY-Game-Engine) - 2D Graphics Engine optimized for video games, built using C++ and SDL2
 - [BOIDS](https://github.com/Davidrxyang/boids) - simple Java implementation of boids flocking algorithm
+- [Personal Website](https://github.com/Davidrxyang/ruoxingyang.com) - full stack personal website project deployed on AWS. Access at ruoxingyang.com
+
 
 
 ## Contact
