@@ -1,5 +1,7 @@
 # RUOXING (David) YANG
 
+<img src="https://github.com/Davidrxyang/Davidrxyang/blob/main/David.jpg" alt="Profile Picture" width="200"/>
+
 - [ruoxingyang.com](https://ruoxingyang.com)
 
 ## About
@@ -28,4 +30,3 @@
 ## Contact
 - [LinkedIn](https://linkedin.com/in/ruoxing-yang-527304228)
   
-<img src="https://github.com/Davidrxyang/Davidrxyang/blob/main/David.jpg" alt="Profile Picture" width="200"/>
