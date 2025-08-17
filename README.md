@@ -5,13 +5,14 @@
 - [ruoxingyang.com](https://ruoxingyang.com)
 
 ## About
-- Working on Cadence for the Georgetown SecLab
-- Working on the Line Addition Problem for the 2024 Georgetown Raines Fellowship 
+- Working on the Cadence HumaNet Simulator for the Georgetown SecLab
+- Working on privacy-preserving push notification systems with the Georgetown SecLab
+- Working on Differentially Private Fine-tuning of Localizable Language Models for the 2025 Provost Distinguished Fellowship
 - Learning GoLang, AWS, etc
 - Reach Me: davidruoxingyang@gmail.com
 
 ## Skills
-- **Languages:** C++, C, Java, GoLang, Python, JavaScript, TypeScript, HTML
+- **Languages:** C++, C, Java, GoLang, Python, JavaScript, TypeScript, HTML, etc
 - **Technology/Frameworks:** React, SDL2, Linux, Ubuntu, Bash
 - **Tools:** MySQL
 
