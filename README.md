@@ -1,7 +1,5 @@
 # RUOXING (David) YANG
 
-<img src="https://github.com/Davidrxyang/Davidrxyang/blob/main/David.jpg" alt="Profile Picture" width="200"/>
-
 - [ruoxingyang.com](https://ruoxingyang.com)
 
 ## About
