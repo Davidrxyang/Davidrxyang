@@ -22,7 +22,8 @@
 
 ## Statistics
 
-[![David's GitHub stats](https://github-stats-extended.vercel.app/api?username=davidrxyang)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=davidrxyang&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=davidrxyang&langs_count=6)
 
 ## Contact
 - [LinkedIn](https://linkedin.com/in/ruoxing-yang-527304228)
