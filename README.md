@@ -20,6 +20,10 @@
 - [BOIDS](https://github.com/Davidrxyang/boids) - simple Java implementation of boids flocking algorithm
 - [Personal Website](https://github.com/Davidrxyang/ruoxingyang.com) - full stack personal website project deployed on AWS. Access at ruoxingyang.com
 
+## Statistics
+
+[![David's GitHub stats](https://github-stats-extended.vercel.app/api?username=davidrxyang)](https://github.com/stats-organization/github-stats-extended)
+
 ## Contact
 - [LinkedIn](https://linkedin.com/in/ruoxing-yang-527304228)
   
